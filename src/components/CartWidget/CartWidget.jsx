@@ -3,7 +3,7 @@ import './CartWidget.css';
 const CartWidget = () => {
   return (
     <>
-       <span className="d-block mx-4"><img src="./img/anadir-a-la-cesta.png"/>0</span>
+       <span className="cardWidget d-block mx-4"><img src="../img/anadir-a-la-cesta.png"/>0</span>
     </>
   )
 }
