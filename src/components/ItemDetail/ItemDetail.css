@@ -7,3 +7,10 @@
     color: rgb(255, 255, 255);
     text-shadow: 3px 1px 0px rgb(106, 107, 109);
 }
+.btnTerminarCompra{
+    background-color: #03253C;
+    color: white;
+    display: grid;
+    place-items: center;
+    a{text-decoration: none;}
+}

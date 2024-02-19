@@ -1,0 +1,11 @@
+.btnCarro{
+    display: flex;
+        justify-content: center;
+
+    button{
+        width: 200px;
+        background-color:#03253C ;
+        color: white;
+        font-weight: bold;
+    }
+}

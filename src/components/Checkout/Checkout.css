@@ -1,0 +1,25 @@
+.checkout{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    h2{
+        color: #03253C;
+        font-weight: bold;
+    }
+}
+.formulario{
+    display: flex;
+    flex-flow: column;
+    width: 500px;
+    justify-content: center;
+    margin-top: 20px;
+    input{
+        margin-bottom:5px ;
+    }
+    button{
+        background-color:#03253C ;
+        color: white;
+        font-weight: bold;
+    }
+}
